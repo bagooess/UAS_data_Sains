@@ -1,2 +1,4 @@
 # UAS_data_Sains
-Iman Bagus R
+Nama :Iman Bagus R
+NIM : 15240475
+Prodi : Informatika
